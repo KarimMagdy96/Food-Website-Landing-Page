@@ -1,0 +1,111 @@
+:root {
+  --maincolor: #6dce9a;
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+  
+}
+
+/* nav bar  */
+.getStartbtn {
+  border: 1px solid var(--maincolor);
+}
+.logo {
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  line-height: 70px;
+  font-size: 3rem;
+  background-color: var(--maincolor);
+  animation: mylogoR 5s ease 0s infinite alternate-reverse;
+}
+@keyframes mylogoR {
+  25% {
+    border-bottom-right-radius: 0px;
+  }
+  50% {
+    border-bottom-right-radius: 50px;
+  }
+  75% {
+    border-top-left-radius: 0px;
+  }
+
+  100% {
+    border-top-left-radius: 50px;
+  }
+}
+
+/* nav bar -end */
+
+/* hero section */
+.svg{
+   width: 100%;
+   bottom: 0;
+}
+.hero {
+  height: 110vh;
+}
+.heroBtn {
+  background-color: var(--maincolor);
+  color: white;
+  border: none;
+  outline: none;
+  box-shadow: 0 0 10px 5px var(--maincolor);
+  font-size: 12px;
+}
+.heroInput{
+     font-size: 12px;
+}
+/* hero section-end */
+
+/* card section */
+.imgSize{
+width: 35%;
+}
+.card-btn{
+    background-color: #6dce9a !important;
+    color: white;
+}
+.move{
+    bottom: 0;
+    right: 12px;
+    width: 70px;
+}
+.card-border {
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    text-align: center;
+    border-radius: 200px 0px 200px 200px;
+    -moz-border-radius: 200px 0px 200px 200px;
+    -webkit-border-radius: 200px 0px 200px 200px;
+    border: 0px solid #000000;
+    color: #6dce9a;
+    background-color: #6dce9a32;
+}
+/* card section-end */
+/* clint */
+.bg-img{
+  background-image: url('/img/');
+}
+.img-w{
+    width: 20%; 
+}
+.subtittle{
+  font-size: 12px;
+}
+/*clint-end  */
+/* call to action */
+.calltoAction{
+  border-bottom-right-radius: 30px;
+}
+/* call to action-end */
+/*  footer*/
+footer ul{
+  list-style: none;
+}
+
+/*  footer-end*/
