@@ -107,7 +107,9 @@ width: 35%;
 footer ul{
   list-style: none;
 }
-
+.card-w{
+  width: fit-content;
+}
 /*  footer-end*/
 
 /* responsive */
