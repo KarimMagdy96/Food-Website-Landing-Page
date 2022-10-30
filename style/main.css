@@ -106,6 +106,7 @@ width: 35%;
 /*  footer*/
 footer ul{
   list-style: none;
+  padding-left: 0px !important;
 }
 .card-w{
   width: fit-content;
