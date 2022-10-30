@@ -17,9 +17,9 @@ Fully Responsive  Landing Page With HTML CSS Bootstrap5
 
 * HTML
 * CSS
-* Vanilla JS (ES6)
+* Bootstrap 5
 
 #### Live Preview 
 
-[![Smart Watches](https://dabuttonfactory.com/button.png?t=Live+Demo&f=Open+Sans-Bold&ts=16&tc=fff&hp=45&vp=20&w=180&h=40&c=round&bgt=unicolored&bgc=0275d8 "Click button to open live demo")](https://eccommercee.netlify.app)
+[![Smart Watches](https://dabuttonfactory.com/button.png?t=Live+Demo&f=Open+Sans-Bold&ts=16&tc=fff&hp=45&vp=20&w=180&h=40&c=round&bgt=unicolored&bgc=0275d8 "Click button to open live demo")](https://foode-site.netlify.app/)
 
